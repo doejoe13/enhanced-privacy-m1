@@ -1,0 +1,17 @@
+{
+  "name": "flurrybox/enhanced-privacy-m1",
+  "description": "Extension allows customers to delete, anonymize, or export their personal data.",
+  "type": "magento-module",
+  "homepage": "https://github.com/doejoe13/enhanced-privacy-m1",
+  "license": "GPL-3.0-or-later",
+  "authors": [
+    {
+      "name": "Flurrybox, Ltd.",
+      "email": "info@flurrybox.com"
+    }
+  ],
+  "require": {
+    "php": ">=5.5.0",
+    "magento-hackathon/magento-composer-installer": "*"
+  }
+}
